@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avatars/static/css/main.abd64e84.css",
+    "main.js": "/avatars/static/js/main.34c581fb.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/avatars/static/js/787.f2a0fa2f.chunk.js",
+    "index.html": "/avatars/index.html",
+    "main.abd64e84.css.map": "/avatars/static/css/main.abd64e84.css.map",
+    "main.34c581fb.js.map": "/avatars/static/js/main.34c581fb.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/avatars/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.34c581fb.js"
+  ]
+}
